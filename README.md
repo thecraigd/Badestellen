@@ -1,7 +1,7 @@
 # Badestellen
 Data Analysis project looking at public bathing spots in Berlin.
 
-See the blog post explaining this analysis at: 
+See the blog post that accompanies this analysis at: 
 
 
 Badestelle data from: https://daten.berlin.de/datensaetze/liste-der-badestellen

@@ -28,7 +28,7 @@ Einwohner / Inhabitant data from: [Berlin Open Data](https://daten.berlin.de/dat
 
 Bezirk / District number data from: [Amt für Statistik Berlin-Brandenburg](https://www.statistik-berlin-brandenburg.de/regionalstatistiken/r-gesamt_neu.asp?Ptyp=410&Sageb=33000&creg=BBB&anzwer=8)
 
-Bezirk area data from: [Amt für Statistik Berlin-Brandenburg / Wikipedia](https://de.wikipedia.org/wiki/Berlin)
+Bezirk area data from: [Amt für Statistik Berlin-Brandenburg / Wikipedia](https://de.wikipedia.org/wiki/Berlin#Stadtgliederung)
 
 
 ### Getting started

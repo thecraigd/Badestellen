@@ -41,7 +41,7 @@ Bezirk area data from: [Amt für Statistik Berlin-Brandenburg / Wikipedia](https
 ## Featured Notebooks
 * [Badestellen](https://github.com/thecraigd/Badestellen/blob/master/Badestellen.ipynb)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thecraigd/Badestellen/master)
+* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thecraigd/Badestellen/master)
 
 
 ## Contact

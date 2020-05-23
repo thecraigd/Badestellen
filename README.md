@@ -41,6 +41,8 @@ Bezirk area data from: [Amt für Statistik Berlin-Brandenburg / Wikipedia](https
 ## Featured Notebooks
 * [Badestellen](https://github.com/thecraigd/Badestellen/blob/master/Badestellen.ipynb)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thecraigd/Badestellen/master)
+
 
 ## Contact
 All feedback is warmly received. Craig Dickson can be contacted via [Twitter](https://twitter.com/craigdoesdata) as @craigdoesdata

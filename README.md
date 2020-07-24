@@ -1,3 +1,9 @@
+[![CraigDoesData][logo]][link]
+
+[logo]: https://www.craigdoesdata.de/img/logo/logo.png
+[link]: https://www.craigdoesdata.de/
+
+
 # Badestellen - Where to swim in Berlin!
 Data Analysis project looking at public bathing spots in Berlin.
 

@@ -26,7 +26,7 @@ The purpose of this project was to take publicly available data regarding bathin
 
 
 ### Data sources
-Badestelle data from: [Berlin Open Data](https://daten.berlin.de/datensaetze/liste-der-badestellen) - stored [here](https://github.com/thecraigd/Badestellen/blob/master/badestellen.csv) as badestellen.csv
+Badestellen data from: [Berlin Open Data](https://daten.berlin.de/datensaetze/liste-der-badestellen) - stored [here](https://github.com/thecraigd/Badestellen/blob/master/badestellen.csv) as badestellen.csv
 
 Badestelle map from [berlin.de](https://www.berlin.de/lageso/gesundheit/gesundheitsschutz/badegewaesser/karte/)
 
